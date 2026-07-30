@@ -78,4 +78,4 @@ Aryan Sadana
 
 Built while learning Python and strengthening concepts like file handling and dictionaries.
 
-⭐ If you found this project useful, consider giving it a star!!!
+⭐ If you found this project useful, consider giving it a star!!!!
